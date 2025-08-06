@@ -1,6 +1,6 @@
 ## Hipoteza różnicowego zakrzywienia czasoprzestrzeni przez materię i antymaterię
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16754039.svg)](https://doi.org/10.5281/zenodo.16754039) | [Pobierz PDF](https://github.com/.../raw/main/...pdf)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16754039.svg)](https://doi.org/10.5281/zenodo.16754039) | [Pobierz  PDF](https://github.com/ArkOkupski-WAT/G-2-Force-Spacetime-Adhesion-Model-Revised-/raw/main/G-2-Force-Spacetime-Adhesion-Revised-Model-2.pdf)
 
 Praca przedstawia ramy teoretyczne przewidujące **różnicowe efekty zakrzywienia czasoprzestrzeni** między materią a antymaterią, realizowane poprzez 
 nowe sprzężenie z fundamentalnym polem skalarnym.
